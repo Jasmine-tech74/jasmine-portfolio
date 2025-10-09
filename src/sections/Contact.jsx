@@ -140,7 +140,7 @@ const Contact = () => {
                 </p>
                 <div className="flex space-x-6">
                   <a
-                    href="[YOUR-LINKEDIN-URL]"
+                    href="https://www.linkedin.com/in/tolu-jasmine-b176a336b/"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="text-4xl text-gray-700 hover:text-indigo-600 transition duration-200 transform hover:scale-110"

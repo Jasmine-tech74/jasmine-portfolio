@@ -68,7 +68,7 @@ const Footer = () => {
             </a>
                        {" "}
             <a
-              href="[Your-LinkedIn-URL]" // ✅ Update this link
+              href="https://www.linkedin.com/in/tolu-jasmine-b176a336b/" // ✅ Update this link
               target="_blank"
               rel="noopener noreferrer"
               className="text-gray-400 hover:text-indigo-400 transition duration-300 transform hover:scale-110 text-xl"
