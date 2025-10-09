@@ -18,7 +18,7 @@ const Hero = () => {
             Jasmine
           </h1>
           <h2 className="text-2xl md:text-3xl font-light text-gray-700 mt-3 mb-6">
-            A Software Developer & Web Designer
+            A Fullstack Developer
           </h2>
           <p className="text-lg text-gray-600 mb-8 max-w-md mx-auto md:mx-0">
             I build engaging, responsive, and high-performing web applications.
