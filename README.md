@@ -6,7 +6,7 @@ This repository contains the source code for my personal professional portfolio,
 
 It is a fully responsive, single-page application (SPA) focused on clarity, performance, and accessibility.
 
-**🔗 Live Site:** [Link to your deployed live site]
+**🔗 Live Site:** https://jasmine-portfolio-eta.vercel.app/
 
 ## ✨ Featured Technologies
 
