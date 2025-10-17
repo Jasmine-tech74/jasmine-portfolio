@@ -27,7 +27,7 @@ const About = () => {
           {/* Right Column: Text Content */}
           <div className="md:w-2/3">
             <h3 className="text-3xl font-bold text-gray-800 mb-4">
-              Hi, I'm Jasmine, a passionate Full Stack Developer.
+              Hi, I'm Jasmine, a passionate Frontend Developer.
             </h3>
 
             {/* Core Story Paragraphs */}
@@ -35,14 +35,15 @@ const About = () => {
               My journey into development started with a curiosity for how
               things work, quickly blossoming into a career where I love
               bringing intricate designs to life with clean, efficient code. I
-              specialize in the modern MERN stack, crafting scalable web
-              applications that deliver exceptional user experiences.
+              build exceptional user experiences by leveraging the power of the
+              MERN stack, specializing in React-based frontend architecture and
+              scalable web applications.
             </p>
             <p className="text-gray-600 mb-6 leading-relaxed">
               I believe that great software is a perfect blend of robust
-              engineering and thoughtful design. Whether I'm tackling complex
-              backend logic or fine-tuning frontend performance, my focus is
-              always on creating value and delightful interactions.
+              engineering and thoughtful design. Whether I'm architecting
+              reusable component libraries or fine-tuning frontend performance,
+              my focus is always on creating value and delightful interactions.
             </p>
 
             {/* Resume CTA */}

@@ -2,7 +2,7 @@ import React from "react";
 // Import icons from react-icons. Example: Devicons (Di), Simple Icons (Si), Font Awesome (Fa)
 import {
   FaReact,
-  FaNodeJs,
+  // FaNodeJs, //
   FaHtml5,
   FaCss3Alt,
   FaGitAlt,
@@ -12,8 +12,8 @@ import {
 import {
   SiTailwindcss,
   SiJavascript,
-  SiMongodb,
-  SiExpress,
+  // SiMongodb, //
+  // SiExpress, //
 } from "react-icons/si";
 
 const Skills = () => {
@@ -42,6 +42,8 @@ const Skills = () => {
         },
       ],
     },
+    // START OF BACKEND SECTION
+    /*
     {
       title: "Backend & Database",
       description:
@@ -62,6 +64,8 @@ const Skills = () => {
         // Add more backend skills like SQL, Python, etc., here
       ],
     },
+    */
+    // END OF BACKEND SECTION
     {
       title: "Tools & Workflow",
       description:
@@ -79,7 +83,6 @@ const Skills = () => {
           name: "Rest APIs",
           icon: <FaServer className="text-4xl text-gray-700" />,
         },
-        // Add more tools like Docker, Jest, AWS, etc., here
       ],
     },
   ];
@@ -99,7 +102,7 @@ const Skills = () => {
         </div>
 
         {/* Skills Grid */}
-        <div className="grid md:grid-cols-3 gap-10">
+        <div className="grid md:grid-cols-2 gap-10">
           {skillCategories.map((category, index) => (
             <div
               key={index}
