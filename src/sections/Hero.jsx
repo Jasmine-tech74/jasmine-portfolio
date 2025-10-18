@@ -33,7 +33,7 @@ const Hero = () => {
               Get In Touch ✉️
             </a>
             <a
-              href="/Jasmine_Frontend_Developer_Resume.pdf" // Update this path to your actual resume
+              href="/Jasmine_Frontend_Developer_Resume.pdf" 
               target="_blank"
               className="px-8 py-3 text-lg font-medium text-indigo-600 border border-indigo-600 rounded-lg shadow-md hover:bg-indigo-50 transition duration-300 transform hover:scale-105"
             >
